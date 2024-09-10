@@ -1,12 +1,12 @@
 function setup() {
     createCanvas(855, 705);
-    background("black");
+    background("white");
   }
   
   function draw() {
     
-    stroke("purple");
-    fill("purple");
+    stroke("black");
+    fill("black");
   
   
      if(mouseIsPressed) {
